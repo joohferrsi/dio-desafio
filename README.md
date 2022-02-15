@@ -1,4 +1,3 @@
 # Desafio de Projeto para o Curso da DIO
 ### Aqui estarei colocando as principais atividades que estou estudando na DIO
-<center>Obrigada,Jooh</center>
-<center>Item centralizado</center>
+:purple_heart: _Obrigada,Jocimara_
